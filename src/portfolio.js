@@ -126,14 +126,14 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Amity University Jharkhand ",
+      schoolName: "Christ University Bangalore  ",
       logo: require("./assets/images/Amity University -04.jpg"),
       subHeader: "BCA specialisation in Artifical intelligence and Data Science",
       duration: "September 2025 - October 2028",
       desc: "Relevant CourseWork: Relevant Course Work : Data Structures and Algorithms, Natural Language Processing , Machine Learning, Data Exploration and Visualisation",
       descBullets: [
         "CGPA : 8.9/10",
-        "Amity Scholorship for Excellence in Academics holder",
+        "Christ Scholorship for Excellence in Academics holder",
       ]
     },
     
